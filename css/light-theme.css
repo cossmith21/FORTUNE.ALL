@@ -1,0 +1,10 @@
+/* Proposed light adaptation of the Fortune palette. */
+.fortune-light {
+  --background: #E8E6E1;
+  --panel: #FAF6EE;
+  --text: #0A0A0A;
+  --secondary_text: #5C574C;
+  --text_accent: #8A5E00;
+  --button: #FFBB00;
+  --button_text: #0A0A0A;
+}

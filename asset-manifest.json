@@ -1,0 +1,649 @@
+{
+  "captured_on": "2026-11-13",
+  "files": [
+    {
+      "path": "README.md",
+      "kind": "Authored documentation and index",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/README.md",
+      "bytes": 3688,
+      "sha256": "a7771d8b45bcecde3ff2cc7fdea5e175b9c0cb5ec52ba28129e7c30020c0e2d2"
+    },
+    {
+      "path": "SOURCES.txt",
+      "kind": "Authored documentation and index",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/SOURCES.txt",
+      "bytes": 4343,
+      "sha256": "170b2b2b8e37964c6f179da0c769c02ee82f7e8dd6f0767938913dd12a3610e5"
+    },
+    {
+      "path": "brand.json",
+      "kind": "Authored documentation and index",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/brand.json",
+      "bytes": 6723,
+      "sha256": "e048709eb9c7bafd75d66722f3acf1918240f13dc6b20ebcccbd94291a03c16e"
+    },
+    {
+      "path": "colors.json",
+      "kind": "Verified source colors and proposed light adaptation",
+      "source_url": "https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/colors.json",
+      "bytes": 12426,
+      "sha256": "3b041b24105efd265a91dbe39d83756fa7ab31508882f7cf782daedca6fee60d"
+    },
+    {
+      "path": "css/colors.css",
+      "kind": "Extracted CSS data",
+      "source_url": "https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/css/colors.css",
+      "bytes": 302,
+      "sha256": "57a5e30f39d3be68968688e05a32262d114cd27dd9b6fcca7edfde47f3c9745b"
+    },
+    {
+      "path": "css/light-theme.css",
+      "kind": "Verified source colors and proposed light adaptation",
+      "source_url": "https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/css/light-theme.css",
+      "bytes": 241,
+      "sha256": "29a41c65d9f47fdda1ec2f37beded09b04c950bc37bc25875846910e7fae0b1e"
+    },
+    {
+      "path": "css/root-tokens.css",
+      "kind": "Extracted CSS data",
+      "source_url": "https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/css/root-tokens.css",
+      "bytes": 582,
+      "sha256": "b5fb9aaaed9ba625e085cb47b0b30e2262129c48b50027356a53f52a95b419f2"
+    },
+    {
+      "path": "fonts/fonts.css",
+      "kind": "Extracted CSS data",
+      "source_url": "https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/fonts.css",
+      "bytes": 4380,
+      "sha256": "145607c0b90bcb753db0681a738f1eaabd5eb09243a2c32f2e7f767be1073b48"
+    },
+    {
+      "path": "fonts/fraunces-latin-ext-opsz-italic.CGbN9UgK.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/fraunces-latin-ext-opsz-italic.CGbN9UgK.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/fraunces-latin-ext-opsz-italic.CGbN9UgK.woff2",
+      "bytes": 71460,
+      "sha256": "4983926d3a16544eedcd2233448bd8a43f711e7bf1fabaae8431e78e0b798635"
+    },
+    {
+      "path": "fonts/fraunces-latin-ext-opsz-normal.CJcjJNj7.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/fraunces-latin-ext-opsz-normal.CJcjJNj7.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/fraunces-latin-ext-opsz-normal.CJcjJNj7.woff2",
+      "bytes": 59388,
+      "sha256": "a2930b27d13a228bd9ab6a49269b5f800237892ad560cb9dd7fab01b1620f88e"
+    },
+    {
+      "path": "fonts/fraunces-latin-opsz-italic.lSdLDfvT.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/fraunces-latin-opsz-italic.lSdLDfvT.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/fraunces-latin-opsz-italic.lSdLDfvT.woff2",
+      "bytes": 81520,
+      "sha256": "066710ce7ed235a339d3d6cdcc8b55c0bea5632232662d83aacea25852108271"
+    },
+    {
+      "path": "fonts/fraunces-latin-opsz-normal.DihXLNYH.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/fraunces-latin-opsz-normal.DihXLNYH.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/fraunces-latin-opsz-normal.DihXLNYH.woff2",
+      "bytes": 67304,
+      "sha256": "7234ed860a9cc83045413c4faee63c960a8f2d1917adcf728119307d56e0d783"
+    },
+    {
+      "path": "fonts/fraunces-vietnamese-opsz-italic.DxWqP7Ku.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/fraunces-vietnamese-opsz-italic.DxWqP7Ku.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/fraunces-vietnamese-opsz-italic.DxWqP7Ku.woff2",
+      "bytes": 22128,
+      "sha256": "23af38108404d4b05ea87498afc5a104a3fe878b6339d162472e914a2c8bfa93"
+    },
+    {
+      "path": "fonts/fraunces-vietnamese-opsz-normal.Czevyj-6.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/fraunces-vietnamese-opsz-normal.Czevyj-6.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/fraunces-vietnamese-opsz-normal.Czevyj-6.woff2",
+      "bytes": 19700,
+      "sha256": "f18853f63a870ebef013e30e789d8d544f102e4acd94988e57c223d9c796ddf4"
+    },
+    {
+      "path": "fonts/licenses/Fraunces-OFL.txt",
+      "kind": "Upstream font license notice",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/OFL.txt",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/licenses/Fraunces-OFL.txt",
+      "bytes": 4391,
+      "sha256": "bdf4c22802eaf804f998195871c6b8938aac2ac14b2d78a8bd66a6f1eced833b"
+    },
+    {
+      "path": "fonts/licenses/Montserrat-OFL.txt",
+      "kind": "Upstream font license notice",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/OFL.txt",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/licenses/Montserrat-OFL.txt",
+      "bytes": 4400,
+      "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e"
+    },
+    {
+      "path": "fonts/licenses/PirataOne-OFL.txt",
+      "kind": "Upstream font license notice",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/pirataone/OFL.txt",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/licenses/PirataOne-OFL.txt",
+      "bytes": 4427,
+      "sha256": "e8ad3f3de5baeff6bac6e711d8c406e0a6b8a61d2944741532d8965d893a2681"
+    },
+    {
+      "path": "fonts/montserrat-cyrillic-ext-wght-normal.CO5hGrJv.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/montserrat-cyrillic-ext-wght-normal.CO5hGrJv.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/montserrat-cyrillic-ext-wght-normal.CO5hGrJv.woff2",
+      "bytes": 26368,
+      "sha256": "0f7f5f2fbb4eae126790fe6f01659ab3ee0806e8038a941908e893020569f51a"
+    },
+    {
+      "path": "fonts/montserrat-cyrillic-wght-normal.EAA9jha_.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/montserrat-cyrillic-wght-normal.EAA9jha_.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/montserrat-cyrillic-wght-normal.EAA9jha_.woff2",
+      "bytes": 23828,
+      "sha256": "a187b077090fe8ae3fd2d7496aabbeae604819c718a282e0afc92df72b450766"
+    },
+    {
+      "path": "fonts/montserrat-latin-ext-wght-normal.BsZE-iaG.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/montserrat-latin-ext-wght-normal.BsZE-iaG.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/montserrat-latin-ext-wght-normal.BsZE-iaG.woff2",
+      "bytes": 70688,
+      "sha256": "54d9a78b7ff60b689ad9f3017ffac8547b5d871afec733f6c1c3ae36577ee504"
+    },
+    {
+      "path": "fonts/montserrat-latin-wght-normal.l_AIctKy.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/montserrat-latin-wght-normal.l_AIctKy.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/montserrat-latin-wght-normal.l_AIctKy.woff2",
+      "bytes": 37956,
+      "sha256": "06b16db7a969135d48d38c49183be7fb88d4452e2a3011957c7851941f4e4879"
+    },
+    {
+      "path": "fonts/montserrat-vietnamese-wght-normal.k7S-YeeD.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/montserrat-vietnamese-wght-normal.k7S-YeeD.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/montserrat-vietnamese-wght-normal.k7S-YeeD.woff2",
+      "bytes": 12928,
+      "sha256": "26b2403f995ed65fb49037a6498c074d3ec3c36031a69fc368c4c2180e2c01fa"
+    },
+    {
+      "path": "fonts/pirata-one-latin-400-normal.C8jLWNfm.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/pirata-one-latin-400-normal.C8jLWNfm.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/pirata-one-latin-400-normal.C8jLWNfm.woff2",
+      "bytes": 8868,
+      "sha256": "44b3b2295b8458efd2772a35dad4060f7bd6c434b6c39b31181ca9dff2175576"
+    },
+    {
+      "path": "fonts/pirata-one-latin-400-normal.CiJE7gJH.woff",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/pirata-one-latin-400-normal.CiJE7gJH.woff",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/pirata-one-latin-400-normal.CiJE7gJH.woff",
+      "bytes": 12016,
+      "sha256": "0711310a87486c6832ca908661e29bcb98f866ca5294000a6f85f11ba8d7dea5"
+    },
+    {
+      "path": "fonts/pirata-one-latin-ext-400-normal.CI_wL8s0.woff2",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/pirata-one-latin-ext-400-normal.CI_wL8s0.woff2",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/pirata-one-latin-ext-400-normal.CI_wL8s0.woff2",
+      "bytes": 6380,
+      "sha256": "c39e40554b6ead2a6921598b88ca8fffb52a83e35f1f726cb5f92aeade01db0d"
+    },
+    {
+      "path": "fonts/pirata-one-latin-ext-400-normal.DS3wEyC3.woff",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/pirata-one-latin-ext-400-normal.DS3wEyC3.woff",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/pirata-one-latin-ext-400-normal.DS3wEyC3.woff",
+      "bytes": 8904,
+      "sha256": "1423f7cd410fb352b12d2b1bc3b42bf4d5f3b03a7047c00fbdb1e1890da8bc92"
+    },
+    {
+      "path": "fonts/ttf/Fraunces-Variable-Italic-Latin.ttf",
+      "kind": "TTF repackaging of original Latin webfont",
+      "source_url": "https://fortunesales.com/_astro/fraunces-latin-opsz-italic.lSdLDfvT.woff2",
+      "derived_from": [
+        "fonts/fraunces-latin-opsz-italic.lSdLDfvT.woff2"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/ttf/Fraunces-Variable-Italic-Latin.ttf",
+      "bytes": 138744,
+      "sha256": "4a8dd31fccc275d107a2cdfff5724ffc0d2b9a995795b41af64a08ffeea3ce5f"
+    },
+    {
+      "path": "fonts/ttf/Fraunces-Variable-Latin.ttf",
+      "kind": "TTF repackaging of original Latin webfont",
+      "source_url": "https://fortunesales.com/_astro/fraunces-latin-opsz-normal.DihXLNYH.woff2",
+      "derived_from": [
+        "fonts/fraunces-latin-opsz-normal.DihXLNYH.woff2"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/ttf/Fraunces-Variable-Latin.ttf",
+      "bytes": 113616,
+      "sha256": "32dd39a30989d59439d3d5e4a4befffe3aa3897562ec3e8fdd3535930a94a80b"
+    },
+    {
+      "path": "fonts/ttf/Montserrat-Variable-Latin.ttf",
+      "kind": "TTF repackaging of original Latin webfont",
+      "source_url": "https://fortunesales.com/_astro/montserrat-latin-wght-normal.l_AIctKy.woff2",
+      "derived_from": [
+        "fonts/montserrat-latin-wght-normal.l_AIctKy.woff2"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/ttf/Montserrat-Variable-Latin.ttf",
+      "bytes": 97588,
+      "sha256": "521f11e0e343793357eaef7f2b1bb3c448c6897f9a4941a2cb4164fd9e10e3f6"
+    },
+    {
+      "path": "fonts/ttf/PirataOne-Regular-Latin.ttf",
+      "kind": "TTF repackaging of original Latin webfont",
+      "source_url": "https://fortunesales.com/_astro/pirata-one-latin-400-normal.C8jLWNfm.woff2",
+      "derived_from": [
+        "fonts/pirata-one-latin-400-normal.C8jLWNfm.woff2"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/fonts/ttf/PirataOne-Regular-Latin.ttf",
+      "bytes": 26652,
+      "sha256": "3800c3c50a853b16502f0f8370b8190140e9917d1eca04a098af13955c58e9fb"
+    },
+    {
+      "path": "images/founder-conner-ruggio.DljKGeNM_Z1edMXT.webp",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/founder-conner-ruggio.DljKGeNM_Z1edMXT.webp",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/images/founder-conner-ruggio.DljKGeNM_Z1edMXT.webp",
+      "bytes": 18900,
+      "sha256": "72cb8bc3cd1e2205752002ca2117eef66ce24d34de00149f93e2401b511b7384"
+    },
+    {
+      "path": "images/founder-donnie-moser.ZqQyXh28_Z1oRVKT.webp",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/founder-donnie-moser.ZqQyXh28_Z1oRVKT.webp",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/images/founder-donnie-moser.ZqQyXh28_Z1oRVKT.webp",
+      "bytes": 31340,
+      "sha256": "a4270db6c9f080325ea153f6247948b49c9d92d9e639152257b1f5ee7e2e3c35"
+    },
+    {
+      "path": "images/hero-video-start-mobile.DW4lvGLy_Z1mc2Lb.webp",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/hero-video-start-mobile.DW4lvGLy_Z1mc2Lb.webp",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/images/hero-video-start-mobile.DW4lvGLy_Z1mc2Lb.webp",
+      "bytes": 42522,
+      "sha256": "2df1e2d9d444987fd993ffa0f2da4508be57221c7fb66889871c99253cc8181e"
+    },
+    {
+      "path": "images/hero-video-start.4RjyMaer_Z1E57bk.webp",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/_astro/hero-video-start.4RjyMaer_Z1E57bk.webp",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/images/hero-video-start.4RjyMaer_Z1E57bk.webp",
+      "bytes": 47842,
+      "sha256": "a933dfe3f7d387b076076899c588887eabcacf0fd70c5e6c2fa262d5ad6b99e8"
+    },
+    {
+      "path": "images/og.jpg",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/og.jpg",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/images/og.jpg",
+      "bytes": 74278,
+      "sha256": "a44ab3d4a3458d2e2c46d3db957807d6667c76bf3a5c91eb584ee586c514c84b"
+    },
+    {
+      "path": "marks/fortune-globe-bone.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-globe-bone.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-globe-bone.png",
+      "bytes": 28776,
+      "sha256": "d121d4557e69321e8223df2ec89ae4d957471de53fc7c21e1c3479333801c7d7"
+    },
+    {
+      "path": "marks/fortune-globe-bone.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-globe-bone.svg",
+      "bytes": 3960,
+      "sha256": "7b2d20916633c227d4783d8e9771351548c01b8a4c7c6d6ce714c27c96694b40"
+    },
+    {
+      "path": "marks/fortune-globe-gold.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-globe-gold.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-globe-gold.png",
+      "bytes": 26788,
+      "sha256": "9d5709b0d2dd01cd2c4cc8ccc9f3b89ba0acd903645025f16c88b7467f09cf05"
+    },
+    {
+      "path": "marks/fortune-globe-gold.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-globe-gold.svg",
+      "bytes": 3960,
+      "sha256": "e14da6c2327588ca7750b8ef5f32117ed6f927fe74caaf393c472c8ca7fccf92"
+    },
+    {
+      "path": "marks/fortune-globe-ink.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-globe-ink.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-globe-ink.png",
+      "bytes": 26400,
+      "sha256": "bb50c6e18fc33b75e54d1161cfd8681a9b940d24cd899870ca4791788b7395bb"
+    },
+    {
+      "path": "marks/fortune-globe-ink.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-globe-ink.svg",
+      "bytes": 3960,
+      "sha256": "fc15e44dad305bd9ad695b4798cdfd230ee4fbc0c6e128297f5ed19953c3eafb"
+    },
+    {
+      "path": "marks/fortune-laurel-bone.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-laurel-bone.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-laurel-bone.png",
+      "bytes": 23148,
+      "sha256": "5aef7f97361e286a1613f7d30c33c3a349fef56b4c50e4a01569a2cef8ab4de9"
+    },
+    {
+      "path": "marks/fortune-laurel-bone.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-laurel-bone.svg",
+      "bytes": 3341,
+      "sha256": "41f36d1570892ae7e380c911032804ecb2094177d8048c4cc4de3281e7ddd4a9"
+    },
+    {
+      "path": "marks/fortune-laurel-gold.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-laurel-gold.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-laurel-gold.png",
+      "bytes": 21547,
+      "sha256": "1b1daea173a5bd8bdafefd72bbffd85e20446f1f9e6fdeb266bf6a1a7db57402"
+    },
+    {
+      "path": "marks/fortune-laurel-gold.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-laurel-gold.svg",
+      "bytes": 3341,
+      "sha256": "92dfda3a50fc9a509098b5890ea7d99fc419711b83013f2f8ba24d61d01e0e67"
+    },
+    {
+      "path": "marks/fortune-laurel-ink.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-laurel-ink.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-laurel-ink.png",
+      "bytes": 21247,
+      "sha256": "d11379643274154b6d61d6d37949c2b038c135c2e5bdd31292b8ed51ced4225d"
+    },
+    {
+      "path": "marks/fortune-laurel-ink.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-laurel-ink.svg",
+      "bytes": 3341,
+      "sha256": "2eab8d14c72803e24989f90942f01e758d75b68c90cd3e086e02bcf1669e36b7"
+    },
+    {
+      "path": "marks/fortune-monogram-bone.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-monogram-bone.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-monogram-bone.png",
+      "bytes": 12409,
+      "sha256": "6cac6990907b02232b17c0373177d6b76e1e8bbcac4f62d37cfb2dd366f11b8e"
+    },
+    {
+      "path": "marks/fortune-monogram-bone.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-monogram-bone.svg",
+      "bytes": 1016,
+      "sha256": "bbad28f489c2df93dd2192d22dbefc76171e4aa42cb865c5aa179fed86946c6c"
+    },
+    {
+      "path": "marks/fortune-monogram-gold.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-monogram-gold.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-monogram-gold.png",
+      "bytes": 11798,
+      "sha256": "2b9ad7b71a0599336c62f0fa606cf2640384c12d1da6ae96d60380849a02fa6b"
+    },
+    {
+      "path": "marks/fortune-monogram-gold.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-monogram-gold.svg",
+      "bytes": 1016,
+      "sha256": "eceb651024b41f69b6a8a193ef7a52da21dcddf02b9641d434e28fcaaecb4ff2"
+    },
+    {
+      "path": "marks/fortune-monogram-ink.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-monogram-ink.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-monogram-ink.png",
+      "bytes": 11529,
+      "sha256": "88b7192fd10f5fcfe00e21269be2860997c029e8ec33b8fbd7730d276feee807"
+    },
+    {
+      "path": "marks/fortune-monogram-ink.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-monogram-ink.svg",
+      "bytes": 1016,
+      "sha256": "39ab3ad6e391501349c6477b899d64ada57188da236ef847640334d7927cf128"
+    },
+    {
+      "path": "marks/fortune-wordmark-bone.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-wordmark-bone.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-wordmark-bone.png",
+      "bytes": 17517,
+      "sha256": "d1ee4a8e246368fd91e5b2bb162faa707fc85e699f1276bfcb69f5dfcd1d14ce"
+    },
+    {
+      "path": "marks/fortune-wordmark-bone.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-wordmark-bone.svg",
+      "bytes": 7292,
+      "sha256": "f4a8df67d28754d2f60f28d8404ee83a0ecba0662dc8fbc0eecf44deef35d30d"
+    },
+    {
+      "path": "marks/fortune-wordmark-gold.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-wordmark-gold.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-wordmark-gold.png",
+      "bytes": 16954,
+      "sha256": "50e74a5e79a515dd6cd138a16d9736f4b73e49c40b88215da54ecb7830066de5"
+    },
+    {
+      "path": "marks/fortune-wordmark-gold.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-wordmark-gold.svg",
+      "bytes": 7292,
+      "sha256": "b21a4c67b1773fea30707c3c36af9a24e9cedefb85981072c71c7f669d3c358d"
+    },
+    {
+      "path": "marks/fortune-wordmark-ink.png",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [
+        "marks/fortune-wordmark-ink.svg"
+      ],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-wordmark-ink.png",
+      "bytes": 16466,
+      "sha256": "967b48ff6aa9f0bb08bc5ced25bbc4edb41cecb99426ab78d66694dbc5ecce37"
+    },
+    {
+      "path": "marks/fortune-wordmark-ink.svg",
+      "kind": "Export of original SVG paths",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/marks/fortune-wordmark-ink.svg",
+      "bytes": 7292,
+      "sha256": "b4f2a9b4c1f4a7121b910fd444429f32f018b69af50c9975780457a49bfb5a1c"
+    },
+    {
+      "path": "pdf/Fortune-Brand-Kit-Dark-Mode-Storyboard.pdf",
+      "kind": "Authored brand kit",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/pdf/Fortune-Brand-Kit-Dark-Mode-Storyboard.pdf",
+      "bytes": 3335323,
+      "sha256": "bce1c5d1cb37d5a62dfc6dff2badc3e418bedc42dca6ca0c88bc9e6e27c3d4b3"
+    },
+    {
+      "path": "pdf/Fortune-Brand-Kit-Light-Mode-Storyboard.pdf",
+      "kind": "Authored brand kit",
+      "source_url": "https://fortunesales.com/",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/pdf/Fortune-Brand-Kit-Light-Mode-Storyboard.pdf",
+      "bytes": 1635948,
+      "sha256": "1d623d140e5db912b84f7359c41ff8998affadc9236383995a32da880eb65446"
+    },
+    {
+      "path": "site-svg/favicon.svg",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/favicon.svg",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/site-svg/favicon.svg",
+      "bytes": 983,
+      "sha256": "daf3179d5a527f0c40fc9482ff8a948cc1c2362cb4621c3ce3a71fb80b001d6d"
+    },
+    {
+      "path": "site-svg/grain.svg",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/textures/grain.svg",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/site-svg/grain.svg",
+      "bytes": 229,
+      "sha256": "4706a0c304989d68b38e89db2864f38b09d21b996c8c2d004df3bb5d24987c51"
+    },
+    {
+      "path": "site-svg/lattice.svg",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/textures/lattice.svg",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/site-svg/lattice.svg",
+      "bytes": 8657,
+      "sha256": "47c549eec7b0d6066dce4caa02f072be868f357f242aa68206afce948bb8f61a"
+    },
+    {
+      "path": "site-svg/markstrip.svg",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/textures/markstrip.svg",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/site-svg/markstrip.svg",
+      "bytes": 29782,
+      "sha256": "2244e44328ae2e35d52dce28b08bdc8d6a25c3b6ba54a44866964fe42dc5ea38"
+    },
+    {
+      "path": "site-svg/photo-noise.svg",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/textures/photo-noise.svg",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/site-svg/photo-noise.svg",
+      "bytes": 229,
+      "sha256": "61241a0acfd941a18060b8cb6addc5c262a905e5830d785b089fe116c1d3b25f"
+    },
+    {
+      "path": "site-svg/wordmark.svg",
+      "kind": "Source asset",
+      "source_url": "https://fortunesales.com/textures/wordmark.svg",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/site-svg/wordmark.svg",
+      "bytes": 7252,
+      "sha256": "7ffb0faabdf71c7c9cdd882e812d186ae9dcd7fb97d96e6ee587bc3377cfe4e6"
+    },
+    {
+      "path": "sources/site.css",
+      "kind": "Original stylesheet",
+      "source_url": "https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css",
+      "derived_from": [],
+      "raw_url": "https://raw.githubusercontent.com/cossmith21/FORTUNE.ALL/main/sources/site.css",
+      "bytes": 50892,
+      "sha256": "fc4c7f29592e0ba0b15c2381dc686206c9561d2566f6fdd5ed7bf367a95aa234"
+    }
+  ]
+}

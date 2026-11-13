@@ -1,0 +1,619 @@
+{
+  "source_url": "https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css",
+  "captured_on": "2026-11-13",
+  "verified_root_tokens": {
+    "--ink": "#0A0A0A",
+    "--char": "#0A0A0A",
+    "--forest": "#0A0A0A",
+    "--forest-lift": "#1C1C1C",
+    "--red": "#D71B00",
+    "--red-hi": "#FF3416",
+    "--gold": "#FFBB00",
+    "--gold-hi": "#FFC934",
+    "--bone": "#E8E6E1",
+    "--ash": "#A8A6A1",
+    "--steel": "#6E6B65",
+    "--paper": "#0D1011"
+  },
+  "verified_section_colors": {
+    "midcta_background": "#7A0305",
+    "midcta_text": "#F4F0E6",
+    "warm_cream": "#FAF6EE",
+    "steps_secondary_text": "#5C574C",
+    "steps_number_text": "#8A5E00"
+  },
+  "all_hex_literals_in_source_css": [
+    {
+      "source_literal": "#000",
+      "hex": "#000000",
+      "occurrences": 11
+    },
+    {
+      "source_literal": "#0000",
+      "hex": "#00000000",
+      "occurrences": 14
+    },
+    {
+      "source_literal": "#00000061",
+      "hex": "#00000061",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0000008c",
+      "hex": "#0000008C",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#000000b3",
+      "hex": "#000000B3",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#000000bf",
+      "hex": "#000000BF",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#000000d9",
+      "hex": "#000000D9",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#000000e6",
+      "hex": "#000000E6",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#0009",
+      "hex": "#00000099",
+      "occurrences": 4
+    },
+    {
+      "source_literal": "#000c",
+      "hex": "#000000CC",
+      "occurrences": 5
+    },
+    {
+      "source_literal": "#0a0a0a",
+      "hex": "#0A0A0A",
+      "occurrences": 28
+    },
+    {
+      "source_literal": "#0a0a0a00",
+      "hex": "#0A0A0A00",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#0a0a0a0f",
+      "hex": "#0A0A0A0F",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a29",
+      "hex": "#0A0A0A29",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a2e",
+      "hex": "#0A0A0A2E",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a38",
+      "hex": "#0A0A0A38",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a40",
+      "hex": "#0A0A0A40",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a61",
+      "hex": "#0A0A0A61",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a66",
+      "hex": "#0A0A0A66",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a70",
+      "hex": "#0A0A0A70",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a75",
+      "hex": "#0A0A0A75",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#0a0a0a80",
+      "hex": "#0A0A0A80",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a8c",
+      "hex": "#0A0A0A8C",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a8f",
+      "hex": "#0A0A0A8F",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#0a0a0a99",
+      "hex": "#0A0A0A99",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0a9e",
+      "hex": "#0A0A0A9E",
+      "occurrences": 4
+    },
+    {
+      "source_literal": "#0a0a0aa8",
+      "hex": "#0A0A0AA8",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0ab8",
+      "hex": "#0A0A0AB8",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0abd",
+      "hex": "#0A0A0ABD",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0ac7",
+      "hex": "#0A0A0AC7",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0acc",
+      "hex": "#0A0A0ACC",
+      "occurrences": 3
+    },
+    {
+      "source_literal": "#0a0a0ad6",
+      "hex": "#0A0A0AD6",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0ae0",
+      "hex": "#0A0A0AE0",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0a0a0aed",
+      "hex": "#0A0A0AED",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0d1011",
+      "hex": "#0D1011",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0d10118c",
+      "hex": "#0D10118C",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0d101199",
+      "hex": "#0D101199",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#0d1011c7",
+      "hex": "#0D1011C7",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#12301f",
+      "hex": "#12301F",
+      "occurrences": 15
+    },
+    {
+      "source_literal": "#12302033",
+      "hex": "#12302033",
+      "occurrences": 8
+    },
+    {
+      "source_literal": "#12302038",
+      "hex": "#12302038",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#1230203d",
+      "hex": "#1230203D",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#1230208c",
+      "hex": "#1230208C",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#14141480",
+      "hex": "#14141480",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#1c1c1c",
+      "hex": "#1C1C1C",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#1c3a28",
+      "hex": "#1C3A28",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#1c4630",
+      "hex": "#1C4630",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#1f282942",
+      "hex": "#1F282942",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#1f282966",
+      "hex": "#1F282966",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#1f2829b3",
+      "hex": "#1F2829B3",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#3a4446",
+      "hex": "#3A4446",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#3a4a3e",
+      "hex": "#3A4A3E",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#465254",
+      "hex": "#465254",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#46564a",
+      "hex": "#46564A",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#55604f",
+      "hex": "#55604F",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#5c574c",
+      "hex": "#5C574C",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#5e6a5f",
+      "hex": "#5E6A5F",
+      "occurrences": 4
+    },
+    {
+      "source_literal": "#6e6b65",
+      "hex": "#6E6B65",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#6e7a70",
+      "hex": "#6E7A70",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#7a0305",
+      "hex": "#7A0305",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#8a5e00",
+      "hex": "#8A5E00",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#8a7a4e",
+      "hex": "#8A7A4E",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#8f988f",
+      "hex": "#8F988F",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#a8801f",
+      "hex": "#A8801F",
+      "occurrences": 3
+    },
+    {
+      "source_literal": "#a8a6a1",
+      "hex": "#A8A6A1",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#a8a6a161",
+      "hex": "#A8A6A161",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#a98529",
+      "hex": "#A98529",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#acaeab2e",
+      "hex": "#ACAEAB2E",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#acaeab38",
+      "hex": "#ACAEAB38",
+      "occurrences": 6
+    },
+    {
+      "source_literal": "#acaeab42",
+      "hex": "#ACAEAB42",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#acaeab4d",
+      "hex": "#ACAEAB4D",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#acaeab61",
+      "hex": "#ACAEAB61",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#acaeab66",
+      "hex": "#ACAEAB66",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#acaeabb8",
+      "hex": "#ACAEABB8",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#b3261e",
+      "hex": "#B3261E",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#b8860b",
+      "hex": "#B8860B",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#b9933f",
+      "hex": "#B9933F",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#d71b00",
+      "hex": "#D71B00",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#d7dad629",
+      "hex": "#D7DAD629",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#d9a400",
+      "hex": "#D9A400",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#e36b5d",
+      "hex": "#E36B5D",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#e8e6e1",
+      "hex": "#E8E6E1",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#e8e6e124",
+      "hex": "#E8E6E124",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#e8e6e129",
+      "hex": "#E8E6E129",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#e8e6e138",
+      "hex": "#E8E6E138",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#e8e6e173",
+      "hex": "#E8E6E173",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#e8e6e1db",
+      "hex": "#E8E6E1DB",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#f4f0e6",
+      "hex": "#F4F0E6",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#f4f1ea",
+      "hex": "#F4F1EA",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#f6f2e8",
+      "hex": "#F6F2E8",
+      "occurrences": 4
+    },
+    {
+      "source_literal": "#f6f2e842",
+      "hex": "#F6F2E842",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#f6f2e88f",
+      "hex": "#F6F2E88F",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#f6f2e8e0",
+      "hex": "#F6F2E8E0",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#f6f2e8e6",
+      "hex": "#F6F2E8E6",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#faf6ee",
+      "hex": "#FAF6EE",
+      "occurrences": 6
+    },
+    {
+      "source_literal": "#fb0",
+      "hex": "#FFBB00",
+      "occurrences": 8
+    },
+    {
+      "source_literal": "#ff3416",
+      "hex": "#FF3416",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb0004",
+      "hex": "#FFBB0004",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb000d",
+      "hex": "#FFBB000D",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb0016",
+      "hex": "#FFBB0016",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb001a",
+      "hex": "#FFBB001A",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb002b",
+      "hex": "#FFBB002B",
+      "occurrences": 3
+    },
+    {
+      "source_literal": "#ffbb0038",
+      "hex": "#FFBB0038",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb0047",
+      "hex": "#FFBB0047",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb004d",
+      "hex": "#FFBB004D",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb0059",
+      "hex": "#FFBB0059",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#ffbb0073",
+      "hex": "#FFBB0073",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb0080",
+      "hex": "#FFBB0080",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#ffbb008c",
+      "hex": "#FFBB008C",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb00b8",
+      "hex": "#FFBB00B8",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffbb00d9",
+      "hex": "#FFBB00D9",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#ffc934",
+      "hex": "#FFC934",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#fff",
+      "hex": "#FFFFFF",
+      "occurrences": 16
+    },
+    {
+      "source_literal": "#fff3d0",
+      "hex": "#FFF3D0",
+      "occurrences": 2
+    },
+    {
+      "source_literal": "#ffffff57",
+      "hex": "#FFFFFF57",
+      "occurrences": 1
+    },
+    {
+      "source_literal": "#ffffffb8",
+      "hex": "#FFFFFFB8",
+      "occurrences": 1
+    }
+  ],
+  "other_color_functions_in_source_css": [],
+  "light_theme": {
+    "status": "Proposed adaptation",
+    "background": "#E8E6E1",
+    "panel": "#FAF6EE",
+    "text": "#0A0A0A",
+    "secondary_text": "#5C574C",
+    "text_accent": "#8A5E00",
+    "button": "#FFBB00",
+    "button_text": "#0A0A0A",
+    "note": "Colors occur in the site stylesheet. Their assignment to a full light theme is a creative proposal."
+  }
+}

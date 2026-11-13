@@ -1,0 +1,232 @@
+{
+  "name": "Fortune",
+  "repository": "https://github.com/cossmith21/FORTUNE.ALL",
+  "website": "https://fortunesales.com",
+  "captured_on": "2026-11-13",
+  "pdfs": {
+    "dark": "pdf/Fortune-Brand-Kit-Dark-Mode-Storyboard.pdf",
+    "light": "pdf/Fortune-Brand-Kit-Light-Mode-Storyboard.pdf"
+  },
+  "colors_file": "colors.json",
+  "asset_manifest": "asset-manifest.json",
+  "font_css": "fonts/fonts.css",
+  "verified_site_messaging": {
+    "source_urls": [
+      "https://fortunesales.com/",
+      "https://fortunesales.com/apply"
+    ],
+    "description": "Fortune recruits people to sell home service agreements door-to-door during a summer selling block.",
+    "positioning": [
+      "Tiered commissions tied to personal sales volume",
+      "Training and development for new and experienced reps",
+      "An earned ownership path for qualifying reps"
+    ],
+    "founders": [
+      "Donnie Moser",
+      "Conner Ruggio"
+    ],
+    "earnings_example": {
+      "personal_sales_volume_usd": 300000,
+      "commission_rate": 0.44,
+      "estimated_retention": 0.8,
+      "illustrated_earnings_usd": 105600
+    },
+    "qualifications": "Earnings are illustrative and vary by performance. Ownership is subject to qualification.",
+    "application_fields": [
+      "name",
+      "email",
+      "phone",
+      "sales experience",
+      "optional SMS consent"
+    ],
+    "navigation": [
+      {
+        "label": "Why Fortune",
+        "url": "https://fortunesales.com/#why"
+      },
+      {
+        "label": "Earnings",
+        "url": "https://fortunesales.com/#earnings"
+      },
+      {
+        "label": "How to join",
+        "url": "https://fortunesales.com/#steps"
+      },
+      {
+        "label": "Apply",
+        "url": "https://fortunesales.com/apply"
+      },
+      {
+        "label": "Referral",
+        "url": "https://fortunesales.com/apply"
+      }
+    ]
+  },
+  "creative_interpretation": {
+    "story": "A bet on yourself that progresses from earning through personal development to potential ownership.",
+    "light_theme": "A proposed light treatment using warm ivory, cream, ink and gold.",
+    "storyboards": "PDF compositions are examples based on the public recruiting flow."
+  },
+  "fonts": [
+    {
+      "family": "Fraunces Variable",
+      "role": "Display serif",
+      "styles": [
+        "normal",
+        "italic"
+      ],
+      "weight_range": [
+        100,
+        900
+      ],
+      "web_files": [
+        "fonts/fraunces-latin-ext-opsz-italic.CGbN9UgK.woff2",
+        "fonts/fraunces-latin-ext-opsz-normal.CJcjJNj7.woff2",
+        "fonts/fraunces-latin-opsz-italic.lSdLDfvT.woff2",
+        "fonts/fraunces-latin-opsz-normal.DihXLNYH.woff2",
+        "fonts/fraunces-vietnamese-opsz-italic.DxWqP7Ku.woff2",
+        "fonts/fraunces-vietnamese-opsz-normal.Czevyj-6.woff2"
+      ],
+      "license": "fonts/licenses/Fraunces-OFL.txt"
+    },
+    {
+      "family": "Montserrat Variable",
+      "role": "Body and navigation sans serif",
+      "styles": [
+        "normal"
+      ],
+      "weight_range": [
+        100,
+        900
+      ],
+      "web_files": [
+        "fonts/montserrat-cyrillic-ext-wght-normal.CO5hGrJv.woff2",
+        "fonts/montserrat-cyrillic-wght-normal.EAA9jha_.woff2",
+        "fonts/montserrat-latin-ext-wght-normal.BsZE-iaG.woff2",
+        "fonts/montserrat-latin-wght-normal.l_AIctKy.woff2",
+        "fonts/montserrat-vietnamese-wght-normal.k7S-YeeD.woff2"
+      ],
+      "license": "fonts/licenses/Montserrat-OFL.txt"
+    },
+    {
+      "family": "Pirata One",
+      "role": "Blackletter accents",
+      "styles": [
+        "normal"
+      ],
+      "weight_range": [
+        400,
+        400
+      ],
+      "web_files": [
+        "fonts/pirata-one-latin-400-normal.C8jLWNfm.woff2",
+        "fonts/pirata-one-latin-400-normal.CiJE7gJH.woff",
+        "fonts/pirata-one-latin-ext-400-normal.CI_wL8s0.woff2",
+        "fonts/pirata-one-latin-ext-400-normal.DS3wEyC3.woff"
+      ],
+      "license": "fonts/licenses/PirataOne-OFL.txt"
+    }
+  ],
+  "ttf_note": "TTFs preserve the Latin webfont outlines and variable axes. Webfonts include all language subsets referenced by the site.",
+  "marks": [
+    {
+      "name": "wordmark",
+      "source_svg_id": "p-word",
+      "viewBox": "0 0 5617 712",
+      "variants": [
+        {
+          "color": "gold",
+          "svg": "marks/fortune-wordmark-gold.svg",
+          "png": "marks/fortune-wordmark-gold.png"
+        },
+        {
+          "color": "bone",
+          "svg": "marks/fortune-wordmark-bone.svg",
+          "png": "marks/fortune-wordmark-bone.png"
+        },
+        {
+          "color": "ink",
+          "svg": "marks/fortune-wordmark-ink.svg",
+          "png": "marks/fortune-wordmark-ink.png"
+        }
+      ]
+    },
+    {
+      "name": "monogram",
+      "source_svg_id": "p-f",
+      "viewBox": "0 0 152 197",
+      "variants": [
+        {
+          "color": "gold",
+          "svg": "marks/fortune-monogram-gold.svg",
+          "png": "marks/fortune-monogram-gold.png"
+        },
+        {
+          "color": "bone",
+          "svg": "marks/fortune-monogram-bone.svg",
+          "png": "marks/fortune-monogram-bone.png"
+        },
+        {
+          "color": "ink",
+          "svg": "marks/fortune-monogram-ink.svg",
+          "png": "marks/fortune-monogram-ink.png"
+        }
+      ]
+    },
+    {
+      "name": "laurel",
+      "source_svg_id": "p-wreath",
+      "viewBox": "0 0 227 196",
+      "variants": [
+        {
+          "color": "gold",
+          "svg": "marks/fortune-laurel-gold.svg",
+          "png": "marks/fortune-laurel-gold.png"
+        },
+        {
+          "color": "bone",
+          "svg": "marks/fortune-laurel-bone.svg",
+          "png": "marks/fortune-laurel-bone.png"
+        },
+        {
+          "color": "ink",
+          "svg": "marks/fortune-laurel-ink.svg",
+          "png": "marks/fortune-laurel-ink.png"
+        }
+      ]
+    },
+    {
+      "name": "globe",
+      "source_svg_id": "p-globe",
+      "viewBox": "0 0 348 348",
+      "variants": [
+        {
+          "color": "gold",
+          "svg": "marks/fortune-globe-gold.svg",
+          "png": "marks/fortune-globe-gold.png"
+        },
+        {
+          "color": "bone",
+          "svg": "marks/fortune-globe-bone.svg",
+          "png": "marks/fortune-globe-bone.png"
+        },
+        {
+          "color": "ink",
+          "svg": "marks/fortune-globe-ink.svg",
+          "png": "marks/fortune-globe-ink.png"
+        }
+      ]
+    }
+  ],
+  "inspection_scope": {
+    "pages": [
+      "https://fortunesales.com/",
+      "https://fortunesales.com/apply"
+    ],
+    "stylesheet": "https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css",
+    "sitemap_results": {
+      "/sitemap.xml": 404,
+      "/sitemap-index.xml": 404
+    }
+  }
+}

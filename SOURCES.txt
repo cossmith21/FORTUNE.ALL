@@ -1,0 +1,45 @@
+Fortune brand assets | fortunesales.com | 13 Nov 2026
+SVG marks extracted from inline homepage paths. Gold, bone and ink versions use site CSS colors.
+The CSS wordmark texture is a separate source asset.
+Font files are original web binaries. Family licensing references: https://github.com/google/fonts/tree/main/ofl
+Motion sources: https://fortunesales.com/video/hero-loop.mp4 | https://fortunesales.com/video/hero-loop-mobile.mp4 | https://fortunesales.com/video/og-preview.mp4
+
+site-svg/favicon.svg | https://fortunesales.com/favicon.svg
+marks/fortune-globe-bone.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-globe-gold.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-globe-ink.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-laurel-bone.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-laurel-gold.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-laurel-ink.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-monogram-bone.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-monogram-gold.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-monogram-ink.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-wordmark-bone.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-wordmark-gold.svg | https://fortunesales.com/ (inline SVG)
+marks/fortune-wordmark-ink.svg | https://fortunesales.com/ (inline SVG)
+images/founder-conner-ruggio.DljKGeNM_Z1edMXT.webp | https://fortunesales.com/_astro/founder-conner-ruggio.DljKGeNM_Z1edMXT.webp
+images/founder-donnie-moser.ZqQyXh28_Z1oRVKT.webp | https://fortunesales.com/_astro/founder-donnie-moser.ZqQyXh28_Z1oRVKT.webp
+fonts/fraunces-latin-ext-opsz-italic.CGbN9UgK.woff2 | https://fortunesales.com/_astro/fraunces-latin-ext-opsz-italic.CGbN9UgK.woff2
+fonts/fraunces-latin-ext-opsz-normal.CJcjJNj7.woff2 | https://fortunesales.com/_astro/fraunces-latin-ext-opsz-normal.CJcjJNj7.woff2
+fonts/fraunces-latin-opsz-italic.lSdLDfvT.woff2 | https://fortunesales.com/_astro/fraunces-latin-opsz-italic.lSdLDfvT.woff2
+fonts/fraunces-latin-opsz-normal.DihXLNYH.woff2 | https://fortunesales.com/_astro/fraunces-latin-opsz-normal.DihXLNYH.woff2
+fonts/fraunces-vietnamese-opsz-italic.DxWqP7Ku.woff2 | https://fortunesales.com/_astro/fraunces-vietnamese-opsz-italic.DxWqP7Ku.woff2
+fonts/fraunces-vietnamese-opsz-normal.Czevyj-6.woff2 | https://fortunesales.com/_astro/fraunces-vietnamese-opsz-normal.Czevyj-6.woff2
+site-svg/grain.svg | https://fortunesales.com/textures/grain.svg
+images/hero-video-start-mobile.DW4lvGLy_Z1mc2Lb.webp | https://fortunesales.com/_astro/hero-video-start-mobile.DW4lvGLy_Z1mc2Lb.webp
+images/hero-video-start.4RjyMaer_Z1E57bk.webp | https://fortunesales.com/_astro/hero-video-start.4RjyMaer_Z1E57bk.webp
+site-svg/lattice.svg | https://fortunesales.com/textures/lattice.svg
+site-svg/markstrip.svg | https://fortunesales.com/textures/markstrip.svg
+fonts/montserrat-cyrillic-ext-wght-normal.CO5hGrJv.woff2 | https://fortunesales.com/_astro/montserrat-cyrillic-ext-wght-normal.CO5hGrJv.woff2
+fonts/montserrat-cyrillic-wght-normal.EAA9jha_.woff2 | https://fortunesales.com/_astro/montserrat-cyrillic-wght-normal.EAA9jha_.woff2
+fonts/montserrat-latin-ext-wght-normal.BsZE-iaG.woff2 | https://fortunesales.com/_astro/montserrat-latin-ext-wght-normal.BsZE-iaG.woff2
+fonts/montserrat-latin-wght-normal.l_AIctKy.woff2 | https://fortunesales.com/_astro/montserrat-latin-wght-normal.l_AIctKy.woff2
+fonts/montserrat-vietnamese-wght-normal.k7S-YeeD.woff2 | https://fortunesales.com/_astro/montserrat-vietnamese-wght-normal.k7S-YeeD.woff2
+images/og.jpg | https://fortunesales.com/og.jpg
+site-svg/photo-noise.svg | https://fortunesales.com/textures/photo-noise.svg
+fonts/pirata-one-latin-400-normal.C8jLWNfm.woff2 | https://fortunesales.com/_astro/pirata-one-latin-400-normal.C8jLWNfm.woff2
+fonts/pirata-one-latin-400-normal.CiJE7gJH.woff | https://fortunesales.com/_astro/pirata-one-latin-400-normal.CiJE7gJH.woff
+fonts/pirata-one-latin-ext-400-normal.CI_wL8s0.woff2 | https://fortunesales.com/_astro/pirata-one-latin-ext-400-normal.CI_wL8s0.woff2
+fonts/pirata-one-latin-ext-400-normal.DS3wEyC3.woff | https://fortunesales.com/_astro/pirata-one-latin-ext-400-normal.DS3wEyC3.woff
+site-svg/wordmark.svg | https://fortunesales.com/textures/wordmark.svg
+CSS: https://fortunesales.com/_astro/MarkStrip.BPKrYiJp.css
